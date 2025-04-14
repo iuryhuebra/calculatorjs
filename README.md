@@ -19,7 +19,7 @@ Este projeto é uma calculadora simples desenvolvida com **HTML, CSS e JavaScrip
 
 ## 📸 Demonstração
 
-![Demonstração da Calculadora](\img\calc-example.png)
+![Demonstração da Calculadora](.\img\calc-example.png)
 
 ## ⚠️ Aviso de Segurança
 Atenção: Este projeto utiliza eval() para processar expressões matemáticas. Essa função pode ser perigosa se usada com entradas não validadas, portanto não é recomendada em ambientes de produção. Aqui, foi utilizada apenas com fins educacionais.
